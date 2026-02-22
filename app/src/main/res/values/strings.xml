@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Facet</string>
+    <string name="tap_to_place_drill">Tap on a detected surface to place the drill</string>
+</resources>
